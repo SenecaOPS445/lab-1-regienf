@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Description: Demonstrates how to perform basic mathematical operations in Python.'''
+'''Investigation 5 - Exploring on How to Get Python to do Math'''
 
 # Object x,y and z
 x = 10
