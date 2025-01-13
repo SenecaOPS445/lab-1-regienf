@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Description: Demonstrates the use of integer objects.'''
+'''Description: Integer Objects'''
 
 # Define two integer objects
 #num1 = 5
@@ -9,7 +9,7 @@
 #print(num1)
 #print(num2)
 
-# Perform addition and store in a new object
+# Perform addition
 #sum = num1 + num2
 
 # Print the result
